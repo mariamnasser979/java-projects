@@ -1,7 +1,7 @@
 
 **Dynamic Redis Config Loader**
 
-This is a small Spring Boot project I built to make working with Redis easier and more flexible.
+This is a small Spring Boot project  to make working with Redis easier and more flexible.
 Instead of hard-coding one single Redis setup, the app can read different configurations from simple .properties files that live outside the project. That way, I can switch environments (dev / test / prod) without rebuilding the app.
 
 **Why I built it ?**

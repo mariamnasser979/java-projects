@@ -41,6 +41,6 @@ server.port=8081
 
 	3.	Run the app from your IDE (or mvn spring-boot:run).
 	4.	Test with Postman or your browser:
-	•	GET  http://localhost:8081/cache/config/session
-	•	POST http://localhost:8081/cache/session/put?key=name&value=Mariam
-	•	GET  http://localhost:8081/cache/session/get?key=name
+- GET  http://localhost:8081/cache/config/session
+- POST http://localhost:8081/cache/session/put?key=name&value=Mariam
+- GET  http://localhost:8081/cache/session/get?key=name

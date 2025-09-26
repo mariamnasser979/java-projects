@@ -32,11 +32,11 @@ server.port=8081
 
 	2.	Create the folder (e.g., E:/redis-config) and put a .properties file inside, like:
 
-redis.host=localhost
-redis.port=6379
-redis.db=0
-redis.timeout.ms=2000
-redis.ttl.seconds=3600
+- redis.host=localhost
+- redis.port=6379
+- redis.db=0
+- redis.timeout.ms=2000
+- redis.ttl.seconds=3600
 
 
 	3.	Run the app from your IDE (or mvn spring-boot:run).
